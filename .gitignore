@@ -1,0 +1,5 @@
+/test.py
+/settings.py
+.idea
+*.pyc
+*.log
